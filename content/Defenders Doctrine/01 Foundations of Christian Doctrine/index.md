@@ -1,3 +1,13 @@
+---
+title: Foundations of Christian Doctrine
+description: 
+permalink: 
+aliases:
+  - Foundations of Christian Doctrine
+tags: 
+draft: 
+date:
+---
 Christian doctrines are the church's core teachings derived from Scripture. Studying doctrine and apologetics is essential for understanding, defending, and sharing faith effectively in a skeptical world.
 
 [[01 Why Study Christian Doctrine]]

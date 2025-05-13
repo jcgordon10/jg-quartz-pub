@@ -1,11 +1,14 @@
 ---
-
-title: Welcome to Quartz
-
+title: Map of Content
+description: 
+permalink: 
+aliases:
+  - Map of Content
+  - MOC
+tags: 
+draft: 
+date:
 ---
+[[Gavin Ortlund/index|Gavin Ortlund]]
 
-
-
-This is a blank Quartz installation. index is the home page for the notes
-
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Defenders Doctrine/index|Defenders Doctrine]]

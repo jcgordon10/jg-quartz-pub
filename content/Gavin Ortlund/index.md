@@ -1,5 +1,12 @@
 ---
-alias: Gavin Ortlund
+title: Gavin Ortlund
+description: 
+permalink: 
+aliases:
+  - Gavin Ortlund
+tags: 
+draft: 
+date:
 ---
 
 # Dog

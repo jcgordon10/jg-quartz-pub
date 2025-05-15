@@ -1,5 +1,6 @@
 ---
-speaker: Gavin Ortlund
+speakers:
+  - Gavin Ortlund
 video_title: "\rThe Puritans: 5 Books to Start With"
 video_link: https://www.youtube.com/watch?v=e_gk2znYAqU
 ---

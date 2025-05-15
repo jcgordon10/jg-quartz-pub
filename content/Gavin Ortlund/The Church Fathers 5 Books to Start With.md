@@ -1,5 +1,6 @@
 ---
-speaker: Gavin Ortlund
+speakers:
+  - Gavin Ortlund
 video_title: "\rThe Church Fathers: 5 Books to Start With"
 video_link: https://www.youtube.com/watch?v=sTo3nY9WXE4
 ---

@@ -9,8 +9,6 @@ draft:
 date:
 ---
 
-# Dog
-
 [[How to Study Church History (And Why Every Christian Should)]]
 Gavin Ortlund explains why every Christian should study church history, emphasizing its historical nature, influence on humanity, and potential to challenge contemporary blind spots. He provides a practical four-step guide for studying church history: cultivate curiosity, narrow interests, delve into primary sources, and engage secondary literature.
 

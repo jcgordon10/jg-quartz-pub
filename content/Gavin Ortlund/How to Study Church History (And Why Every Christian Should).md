@@ -1,5 +1,6 @@
 ---
-speaker: Gavin Ortlund
+speakers:
+  - Gavin Ortlund
 video_title: How to Study Church History (And Why Every Christian Should)
 video_link: https://www.youtube.com/watch?v=5vZL_-qDW58
 ---

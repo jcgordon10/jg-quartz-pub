@@ -1,3 +1,25 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+.not-found-page {
+  text-align: center; // Center the text content
+  padding-top: 4rem; // Add some space above the content
+  padding-bottom: 4rem; // Add space below the content
+
+  h1 {
+    font-size: 4rem; // Make the "404" number larger
+    color: var(--dark); // Use the theme's dark color for prominence
+    margin-bottom: 1rem; // Space below the number
+    margin-top: 0; // Remove default h1 top margin
+  }
+
+  p {
+    font-size: 1.1rem; // Slightly increase font size for the message
+    color: var(--darkgray); // Use theme's body text color
+    margin-bottom: 1.5rem; // Space below the message
+  }
+
+  a {
+    font-size: 1rem; // Keep link size reasonable
+    // Quartz base styles should handle link color and hover effect
+  }
+}

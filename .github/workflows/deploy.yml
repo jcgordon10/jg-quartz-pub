@@ -1,19 +1,19 @@
 name: Deploy Quartz site to GitHub Pages
- 
+
 on:
   push:
     branches:
       - v4
- 
+
 permissions:
   contents: read
   pages: write
   id-token: write
- 
+
 concurrency:
   group: "pages"
   cancel-in-progress: false
- 
+
 jobs:
   build:
     runs-on: ubuntu-22.04
@@ -21,17 +21,22 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Fetch all history for git info
+      - uses: actions/setup-node@v4 # <-- ADD THIS STEP
+        with:
+          node-version: 22 # Or '20' or any version >= 20
       - name: Install Dependencies
         run: npm ci
       - name: Clone Content Repository
-        run: git clone https://github.com/jcgordon10/jg-obsidian-pub.git content  # Clones into a directory named 'content_repo'
+        # Clones into a directory named 'content'. This is the default Quartz expects.
+        run: git clone https://github.com/jcgordon10/jg-obsidian-pub.git content
       - name: Build Quartz
+        # Since you cloned into 'content', the default command works
         run: npx quartz build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
- 
+
   deploy:
     needs: build
     environment:

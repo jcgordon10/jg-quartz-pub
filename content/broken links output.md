@@ -1,0 +1,2 @@
+Don't forget that creating the file from here may create the file in the wrong directory!
+- [[|Next Lecture]] in [[Defenders Doctrine/02 Doctrine of Revelation/04 The Inspiration of Scripture]], [[Defenders Doctrine/09 Excursus on Creation of Life and Biological Diversity/03 A Critique of the Literal Interpretation]]

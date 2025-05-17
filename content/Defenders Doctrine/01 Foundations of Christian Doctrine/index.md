@@ -1,4 +1,4 @@
-﻿---
+---
 title: 01 Foundations of Christian Doctrine
 description: 
 permalink: 

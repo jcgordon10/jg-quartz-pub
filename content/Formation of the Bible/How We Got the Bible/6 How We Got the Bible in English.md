@@ -1,4 +1,4 @@
-﻿---
+---
 video_link: https://www.youtube.com/watch?v=5nPbLxo2xN8&list=PL63HNxzuw3PPDW-n2GmyhxegICJnEw637&index=6
 ---
 [[5 How the New Testament Was Copied|Previous Lecture]] |

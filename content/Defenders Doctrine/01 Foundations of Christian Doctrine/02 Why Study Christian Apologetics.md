@@ -1,14 +1,13 @@
-﻿[[01 Why Study Christian Doctrine|Previous Lecture]] |
+[[01 Why Study Christian Doctrine|Previous Lecture]] |
 
 **[What is Apologetics and Why Study It?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-foundations-of-christian-doctrine/foundations-of-christian-doctrine-part-2)**
 
 Joke: It's not being sorry for being a Christian, it's making the other guy sorry you are a Christian 😆
 
 1. **Definition of Apologetics**
-    1. Not apologizing for being Christian.
-    2. A branch of Christian theology.
-    3. **Purpose:** Seeks to provide a rational justification for Christian truth claims.
-    4. Primarily a theoretical discipline (not identical to evangelism, faith-sharing tactics, etc.), although it has practical application.
+    1. A branch of Christian theology.
+    2. **Purpose:** Seeks to provide a rational justification for Christian truth claims.
+    3. Primarily a theoretical discipline (not identical to evangelism, faith-sharing tactics, etc.), although it has practical application.
 
 2. **Vital Roles of Apologetics (Why Study It)**
     1. **Shaping Culture**

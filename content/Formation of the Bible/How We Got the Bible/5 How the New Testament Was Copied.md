@@ -1,4 +1,4 @@
-﻿---
+---
 video_link: https://www.youtube.com/watch?v=XtrWkFCcCPc&list=PL63HNxzuw3PPDW-n2GmyhxegICJnEw637&index=5
 ---
 [[4 How the Books of the New Testament Were Chosen|Previous Lecture]] | [[6 How We Got the Bible in English|Next Lecture]]

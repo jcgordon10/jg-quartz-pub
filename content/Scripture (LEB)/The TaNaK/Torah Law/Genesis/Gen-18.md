@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Genesis 18
 ---

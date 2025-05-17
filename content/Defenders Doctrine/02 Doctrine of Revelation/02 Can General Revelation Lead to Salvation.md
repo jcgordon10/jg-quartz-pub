@@ -1,4 +1,4 @@
-﻿[[01 Introduction to General Revelation|Previous Lecture]] | [[03 Relationship of General Revelation to Natural Theology|Next Lecture]]
+[[01 Introduction to General Revelation|Previous Lecture]] | [[03 Relationship of General Revelation to Natural Theology|Next Lecture]]
 
 **[More Functions of General Revelation](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-revelation/doctrine-of-revelation-part-2)**
 

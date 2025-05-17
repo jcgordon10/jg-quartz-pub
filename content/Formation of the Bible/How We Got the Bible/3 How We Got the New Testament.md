@@ -1,4 +1,4 @@
-﻿---
+---
 video_link: https://www.youtube.com/watch?v=XVaP-hRGbqA&list=PL63HNxzuw3PPDW-n2GmyhxegICJnEw637&index=3
 ---
 [[2 How We Got the Old Testament|Previous Lecture]] | [[4 How the Books of the New Testament Were Chosen|Next Lecture]]

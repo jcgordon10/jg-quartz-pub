@@ -5,7 +5,7 @@ permalink:
 aliases:
   - Lecture Notes
 tags: 
-draft: true
+draft: false
 date:
 ---
 These are primarily summations and outlines of content that I have watched, read, or listened to. I think I will primarily keep these notes in the perspective of the source, and they will probably not contain much of my own commentary. I will likely save that for my [[Reflections/index|Reflections]] area.

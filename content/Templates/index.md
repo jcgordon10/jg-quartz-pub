@@ -1,4 +1,4 @@
-﻿---
+---
 title: Blank Template
 description: 
 permalink: 

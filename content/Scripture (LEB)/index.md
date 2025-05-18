@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Markdown Bible
 description: 
 permalink: 

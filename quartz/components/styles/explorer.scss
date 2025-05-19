@@ -119,6 +119,8 @@ button.desktop-explorer {
     margin: 0;
     padding: 0;
     overscroll-behavior: contain;
+    margin-top: 5;
+    margin-bottom: 5;
 
     & li > a {
       color: var(--dark);
@@ -159,7 +161,7 @@ button.desktop-explorer {
   & div > a {
     color: var(--secondary);
     font-family: var(--headerFont);
-    font-size: 0.95rem;
+    font-size: 1.5rem;
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;
     display: inline-block;
